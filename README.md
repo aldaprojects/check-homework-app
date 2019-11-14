@@ -1,16 +1,7 @@
-# controltareas
+# Controltareas
 
-A new Flutter project.
+Aplicación hecha con Flutter. 
 
-## Getting Started
+* **Controla** las tareas que nos encargan en el salón de clases. Hay un administrador que agrega a los usuarios y solamente esos son los que podrán agregar tareas y poder verlas. 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Cuando todos los usuarios que esten registrado hayan completado la tarea, esta se eliminará
