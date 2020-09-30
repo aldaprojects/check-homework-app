@@ -1,7 +1,7 @@
-# Controltareas
+### App mobile to manage homework that teachers assign
 
-Aplicación hecha con Flutter. 
+<hr>
 
-* **Controla** las tareas que nos encargan en el salón de clases. Hay un administrador que agrega a los usuarios y solamente esos son los que podrán agregar tareas y poder verlas. 
+Flutter APP
 
-* Cuando todos los usuarios que esten registrado hayan completado la tarea, esta se eliminará
+There are roles i.e ADMIN_ROLE, USER_ROLE. I´ts just one group, this group only has users and admins, admins only can create homeworks and users just can check if they already finish the homework or not. if all users check true then the homework will be deleted. 
